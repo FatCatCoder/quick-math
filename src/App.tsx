@@ -10,6 +10,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>Circle Calculator</h1>
       <Circle />
     </div>
   )
